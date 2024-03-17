@@ -1,8 +1,9 @@
-## Moinsen
-Damit es einfacher ist die ganze Mods auf den selben stand zuhalten habe ich mal nen Github erstellt da können wir dann immer die Mods rein machen
-So sollte es einfachersein denke ich
+Hallo zusammen,
+Um alle Mods einfacher auf dem gleichen Stand zu halten, habe ich ein GitHub-Repository erstellt. Dort können wir immer die neuesten Versionen der Mods hochladen. Ich denke, das sollte die Verwaltung erleichtern.
 
-## Anleitung
-Zu erst müsst ihr [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html) installieren 
-Und dann müsst ihr eignetlich nur noch den Download von Gitbhub in den Mod Ordner ziehen. 
-Der Mod ordner leigt in der Regel unter %APPDATA%\.minecraft\mods
+Anleitung:
+Zuerst müsst ihr Forge installieren.
+
+Danach zieht ihr einfach den Download von GitHub in den Mods-Ordner. Dieser befindet sich normalerweise unter %APPDATA%\.minecraft\mods.
+
+Ich hoffe, das macht die Installation und Verwaltung der Mods für alle einfacher. Bei Fragen stehe ich gerne zur Verfügung.
