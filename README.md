@@ -1,8 +1,10 @@
-Hallo zusammen,
+## Hallo zusammen
+
 Um alle Mods einfacher auf dem gleichen Stand zu halten, habe ich ein GitHub-Repository erstellt. Dort können wir immer die neuesten Versionen der Mods hochladen. Ich denke, das sollte die Verwaltung erleichtern.
 
-Anleitung:
-Zuerst müsst ihr Forge installieren.
+## Anleitung:
+
+Zuerst müsst ihr [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html) installieren.
 
 Danach zieht ihr einfach den Download von GitHub in den Mods-Ordner. Dieser befindet sich normalerweise unter %APPDATA%\.minecraft\mods.
 
